@@ -2,6 +2,9 @@
 - I'm currently studying DAM at CEBEM (Vigo, Spain)
 ---
 
+[ ![GMAIL](https://img.shields.io/badge/Gmail-fc2003?logo=gmail&logoColor=fc2003&labelColor=000000) ](mailto:lopezballesterosdavid17@gmail.com)
+
+
 <!--
 **lbdavid17/lbdavid17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
