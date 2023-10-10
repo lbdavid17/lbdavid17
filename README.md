@@ -1,5 +1,7 @@
 ### Hi, I'm David 👋
 - I'm currently studying DAM at CEBEM (Vigo, Spain)
+---
+
 <!--
 **lbdavid17/lbdavid17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
